@@ -30,8 +30,8 @@ Seppure il modello abbia totalizzato un’accuratezza molto alta, andando a visu
 si nota che il modello è più bravo a riconoscere casi di non-spam piuttosto che
 casi di spam. Questo fattore potrebbe assolutamente essere riconducibile allo sbilanciamento delle
 etichette. Il nostro modello ha quindi problemi di overfitting e data leakage.
-In pratica avendo a disposizione molte pi`u istanze di massaggi ham e quindi essendo molto
-pi`u allenato a riconoscere i messaggi ham che quelli spam, anche in fase di valutazione tende a
+In pratica avendo a disposizione molte più istanze di massaggi ham e quindi essendo molto
+più allenato a riconoscere i messaggi ham che quelli spam, anche in fase di valutazione tende a
 riconoscere molto bene questo tipo di messaggi che quelli spam.
 Inotre il modello crede di fare anche predizioni molto accurate perch´e avendo molte istanze di
 messaggi non-spam ne indovinerà tante e sbaglierà poche spam non rendendosi conto che dovrebbe
@@ -53,11 +53,11 @@ amministratori del sistema prima di essere resi pubblici
 Nonostante l’elevata accuratezza del modello nella classificazione di dati provenienti dal Dataset
 utilizzato per l’apprendimento, il suo comportamento presenta molti dubbi nel caso in cui lo si
 utilizzi per predirre l’etichetta di nuove stringe (magari scritte a mano). Questo comportamento
-potrebbe essere una delle conseguenze della poca numerosit`a dei dati. Dopo aver reso visibili pregi
+potrebbe essere una delle conseguenze della poca numerosità dei dati. Dopo aver reso visibili pregi
 e difetti del nostro machine learning possiamo dire che i risultati sono soddisfacenti ma non del
-tutto. Sicuramente, come abbiamo gi`a detto, la causa principale sono i dati sbilanciati da noi
-posseduti e visto che questo progetto `e nato soprattutto per sconfiggere il problema dei messaggi
-considerati spam possiamo dire che si pu`o fare nettamente meglio.
+tutto. Sicuramente, come abbiamo già detto, la causa principale sono i dati sbilanciati da noi
+posseduti e visto che questo progetto è nato soprattutto per sconfiggere il problema dei messaggi
+considerati spam possiamo dire che si può fare nettamente meglio.
 
 ## Link Utili
 
