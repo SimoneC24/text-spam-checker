@@ -63,8 +63,8 @@ considerati spam possiamo dire che si pu`o fare nettamente meglio.
 
 [Jupiter Notebook](https://github.com/SimoneC24/text-spam-checker/blob/main/REAMDE.ipynb)
 
-[Modello] (https://github.com/SimoneC24/text-spam-checker/tree/main/training_1)
+[Modello](https://github.com/SimoneC24/text-spam-checker/tree/main/training_1)
 
-[Programma-Principale] (https://github.com/SimoneC24/text-spam-checker/blob/main/__main__.py)
+[Programma-Principale](https://github.com/SimoneC24/text-spam-checker/blob/main/__main__.py)
 
-[Documentazione] (https://github.com/SimoneC24/text-spam-checker/blob/main/Documentazione_Text_Spam_Checker.pdf)
+[Documentazione](https://github.com/SimoneC24/text-spam-checker/blob/main/Documentazione_Text_Spam_Checker.pdf)
